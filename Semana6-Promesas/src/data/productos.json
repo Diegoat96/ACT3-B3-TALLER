@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tele",
+        "descripcion": "Televisor de 80\" marca Samsung",
+        "precio": 2500,
+        "stock": 300,
+        "categoria": "OTROS"
+    }
+]

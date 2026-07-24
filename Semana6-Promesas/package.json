@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio_asincrono",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.1"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.1"
+  }
+  
+}

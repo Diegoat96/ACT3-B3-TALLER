@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Prado",
+        "anio": 2026,
+        "color": "Negro",
+        "placa": "P265OPR",
+        "tipo": "CAMIONETA"
+    }
+]

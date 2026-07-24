@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diego",
+        "apellido": "Velásquez",
+        "edad": 18,
+        "correo": "diego@gmail.com",
+        "contrasena": "Diego1234",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    }
+]
